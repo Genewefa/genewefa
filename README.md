@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently learning at Codecademy. I have in mind three projects to display whatever skills I'll learn. My first project will be a tribute to my late mother. The second is a hospitality website. The third one is an ecommerce. 
+I'm currently learning with Flavio COPE. I have in mind three projects to display whatever skills I'll learn. My first project will be a tribute to my late mother. The second is a hospitality website. The third one is an ecommerce. 
 <!--
 **Genewefa/genewefa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
